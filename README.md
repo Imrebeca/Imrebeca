@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Graduanda em Análise e Desenvolvimento de Sistemas. Estou em um emocionante processo de transição de carreira para a área de tecnologia, impulsionada pela minha paixão por resolver problemas e criar soluções inovadoras. ✨</p>
+<p align="left">💻 Graduada em Análise e Desenvolvimento de Sistemas. Estou em um emocionante processo de transição de carreira para a área de tecnologia, impulsionada pela minha paixão por resolver problemas e criar soluções inovadoras. ✨</p>
 
 ###
 
